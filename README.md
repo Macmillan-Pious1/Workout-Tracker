@@ -1,6 +1,6 @@
-Health Challenge Tracker🤸‍♂️
+Health Tracker
 
-Health Challenge Tracker is a web application for tracking and exploring workout activities. Users can add, filter, and view detailed workout progress.
+Health Tracker is a web application for tracking and exploring workout activities. Users can add, filter, and view detailed workout progress.
 
 ## Features
 
